@@ -1,4 +1,3 @@
-import { useRoutes } from 'react-router-dom';
 import { createElement, lazy, Suspense } from 'react';
 const pages = import.meta.glob('./pages/**/*') as Record<string, () => Promise<any>>;
 

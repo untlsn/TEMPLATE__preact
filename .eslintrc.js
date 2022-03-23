@@ -32,5 +32,6 @@ module.exports = {
     'keyword-spacing': 'warn',
     'react/react-in-jsx-scope': 'off',
     'react/no-children-prop': 'off',
+    'react/jsx-no-undef': 'off',
   },
 };

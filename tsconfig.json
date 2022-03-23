@@ -19,7 +19,7 @@
     "jsxFragmentFactory": "Fragment",
     "baseUrl": ".",
     "paths": {
-      "$/*": [
+      "~/*": [
         "./src/*"
       ]
     },
